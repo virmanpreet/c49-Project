@@ -1,0 +1,25 @@
+h1{
+    background-color:rgb(85,85,85);
+ 
+padding-left: 600px;
+}
+    p{
+        border: solid;
+        padding-left: 100px;
+        margin-left: 500px;
+        margin-right: 500px;}
+    ul{
+        border: solid;
+        margin-left: 500px;
+        margin-right: 500px;
+    }
+    img{
+        border: solid;
+        margin-left: 600px;
+    }
+    
+    
+    body{
+        background-color:rgb(206, 236, 226);
+        } 
+
